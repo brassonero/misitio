@@ -1,0 +1,20 @@
+body {
+	background-color: #b2d8d8;
+	margin:0;
+}
+
+.contenedor-top {
+	background-color: blue;
+}
+
+.contenedor-med {
+	background-color: red;
+	width: 200px;
+	height: 200px;
+}
+
+.contenedor-bottom {
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+}
